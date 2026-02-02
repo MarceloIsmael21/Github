@@ -1,0 +1,7 @@
+ipykernel
+jupyterlab
+matplotlib
+numpy
+pandas
+opencv-python
+##pip install -r Actividad1a/requirements.txt

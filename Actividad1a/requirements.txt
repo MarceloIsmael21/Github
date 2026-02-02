@@ -1,6 +1,0 @@
-ipykernel
-jupyterlab
-matplotlib
-numpy
-os
-##pip install -r Actividad1a/requirements.txt
