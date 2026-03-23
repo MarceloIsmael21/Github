@@ -1,0 +1,7 @@
+.venv/
+datasets/
+Activity1/
+Activity2/
+Activity3/
+Activity4/*.csv
+Activity4/*.pth
