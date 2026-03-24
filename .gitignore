@@ -1,7 +1,7 @@
 .venv/
 datasets/
-Activity1/
-Activity2/
-Activity3/
+Activity1/datasets/
+Activity2/datasets/
+Activity3/glove_embeddings/
+Activity3/*.pkl
 Activity4/*.csv
-Activity4/*.pth

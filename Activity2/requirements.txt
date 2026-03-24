@@ -1,0 +1,9 @@
+## previous and the next ones:
+torch
+torchvision
+torch --extra-index-url https://download.pytorch.org/whl/cu11
+torchvision --extra-index-url https://download.pytorch.org/whl/cu11
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu11
+jupyterthemes
+kagglehub
+##pip install -r Actividad1a/requirements.txt
